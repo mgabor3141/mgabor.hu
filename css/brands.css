@@ -360,7 +360,7 @@ button:hover,
 /* GitHub */
 .button.button-github {
   color: #ffffff;
-  background-color: #000000;
+  background-image: linear-gradient(0, #6e40c9, 10%, black 65%);
   border: 1px solid #FFFFFF;
 }
 .button.button-github:hover,
